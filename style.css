@@ -9,6 +9,7 @@
 
 html {
     scroll-behavior: smooth;
+    background-image: url(img/background.jpg);
 }
 
 body {
